@@ -12,7 +12,7 @@
 - [Questions](#questions)
 
 ## Description
-### This is a polished application that allows users to track their money and transactions with or without a connection to the internet. Users will be able to enter deposits and expenses offline, and when they are back online all entries will populate in the tracker.
+### This is an application that allows users to track their money and transactions with or without a connection to the internet. Users will be able to enter deposits and expenses offline, and when they are back online all entries will populate in the tracker.
 
 ## Installation
 ### mongoose, indexDB, npm i
